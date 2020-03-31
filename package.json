@@ -1,0 +1,17 @@
+{
+  "name": "isabelle",
+  "version": "1.0.0",
+  "description": "A discord bot to discourage foul language.",
+  "main": "index.js",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
