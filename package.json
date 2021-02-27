@@ -1,8 +1,8 @@
 {
   "name": "isabelle",
   "version": "1.0.0",
-  "description": "A discord bot to discourage foul language.",
-  "main": "index.js",
+  "description": "A Discord bot to discourage foul language.",
+  "main": "bot.js",
   "dependencies": {
     "bad-words": "^3.0.3",
     "dblapi.js": "^2.4.0",
